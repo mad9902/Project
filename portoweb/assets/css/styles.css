@@ -195,8 +195,8 @@ img {
 }
 
 .home__title {
-  font-size: var(--big-font-size);
   margin-bottom: var(--mb-5);
+  font-size: 6vh;
 }
 
 .home__title-color {
@@ -223,7 +223,7 @@ img {
   position: absolute;
   right: 0;
   bottom: 0;
-  width: 260px;
+  width: 300px;
 }
 
 .home__blob {
@@ -231,7 +231,7 @@ img {
 }
 
 .home__blob-img {
-  width: 360px;
+  width: 420px;
 }
 
 /*BUTTONS*/
@@ -339,7 +339,7 @@ img {
   border-radius: .5rem;
 }
 
-/* ===== WORK =====*/
+/* ===== Project =====*/
 .work__container {
   row-gap: 2rem;
 }
